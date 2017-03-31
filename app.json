@@ -69,7 +69,7 @@
                     }
                 ]
         	},
-        	"class": "light",
+        	"class": "other",
         	"capabilities": [ "onoff", "measure_battery" ],
              "images": {
                 "large": "/drivers/ZM1601/assets/images/large.png",
@@ -193,7 +193,7 @@
                     }
                 ]
         	},
-        	"class": "light",
+        	"class": "other",
         	"capabilities": [ "onoff" ],
              "images": {
                 "large": "/drivers/ZM1602/assets/images/large.png",
